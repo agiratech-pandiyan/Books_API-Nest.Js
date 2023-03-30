@@ -46,7 +46,7 @@ $ npm run start:prod
 ```
   # after npm i and npm run start:dev, check these routes to check functionalities and required fields added right .
   
-  http://localhost/auth/signup, {POST -  name,email,pwd } 
+  http://localhost/auth/signup, {POST - name,email,pwd } 
   http://localhost/auth/login, {GET - email,pwd }  
   http://localhost/books, {GET}       
   http://localhost/books, {POST - title,author,description,price,category }    
